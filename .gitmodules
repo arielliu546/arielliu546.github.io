@@ -1,5 +1,0 @@
-[submodule "themes/next"]
-    path = themes/next
-    url = https://github.com/next-theme/hexo-theme-next 
-[submodule "bar1"]
-	branch = master
