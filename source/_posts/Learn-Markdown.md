@@ -29,5 +29,6 @@ def main()
 1. Blog: *[arielliu546.github.io](arielliu546.github.io)*
 
 ## To-do's
-- [ ] Corn main
+- [x] Corn man
 - [ ] Old Man and the Sea 
+
