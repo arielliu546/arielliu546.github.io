@@ -15,6 +15,17 @@ tags:
 
 注意注意，`git push origin main`的时候别开VPN，如果还不行可使用手机热点。
 
+deleted this in .gitmodules to use the newer version of NexT
+```
+[submodule "themes/next"]
+	path = themes/next
+	url = https://github.com/next-theme/hexo-theme-next
+```
+and this from .git/config
+```[submodule "themes/next"]
+	active = true
+	url = https://github.com/next-theme/hexo-theme-next
+```
 # Journal
 开心的一天，和班里的同学一起去爬了香山。虽然天气很冷，山上叶子也还没变红，但是一路说说笑笑吃吃喝喝很开心。
 <br>就是有同行的同学倾向于以直接咬的形式分享食物，让我感觉有点难受。
