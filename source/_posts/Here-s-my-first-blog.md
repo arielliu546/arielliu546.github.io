@@ -34,6 +34,9 @@ removed the word in [] in root/.github/workflows/pages.yml
           # If your repository depends on submodule, please see: https://github.com/actions/checkout
           submodules: [recursive]
 		  ```
+
+wrote this in ~/.zshrc
+`export PATH="/usr/local/texlive/2024/bin/universal-darwin:$PATH"`
 # Journal
 开心的一天，和班里的同学一起去爬了香山。虽然天气很冷，山上叶子也还没变红，但是一路说说笑笑吃吃喝喝很开心。
 <br>就是有同行的同学倾向于以直接咬的形式分享食物，让我感觉有点难受。
