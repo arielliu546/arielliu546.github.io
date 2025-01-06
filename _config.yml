@@ -106,13 +106,3 @@ deploy:
     github: 
       url: https://github.com/arielliu546/arielliu546.github.io
       branch: main
-
-# Favicon
-favicon:
-  #small: /images/favicon-16x16-next.png 
-  small: /images/favicon-96x96.png
-  #medium: /images/favicon-32x32-next.png
-  medium: /images/favicon-96x96.png
-  apple_touch_icon: /images/apple-touch-icon-next.png
-  safari_pinned_tab: /images/logo.svg
-  android_manifest: /images/manifest.json
