@@ -4,16 +4,16 @@
 
 # Site
 title: Lone Spider
-subtitle: ''
-description: ''
+subtitle: 'Arie's Blog'
+description: 'Welcome! Here I store my Japanese homework, developer log and other random things.'
 keywords:
-author: AM
+author: Ariel Liu
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://arieliu546.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
