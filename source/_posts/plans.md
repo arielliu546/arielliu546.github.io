@@ -2,6 +2,7 @@
 title: plans
 date: 2025-02-23 22:12:21
 tags:
+sticky: 1
 ---
 
 # IMPORTANT
